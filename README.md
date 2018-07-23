@@ -6,3 +6,4 @@ The files should be in your C:/Python27/Scripts directory, and the videos that y
 To start, open up test.bat and follow the instructions.
 
 Then use videoclass.py to label or predict the srt files.
+XD 
